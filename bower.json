@@ -21,6 +21,5 @@
         "test",
         "tests"
     ],
-    "_source": "https://github.com/gorhgorh/adapt-glm",
-
+    "_source": "git://github.com/gorhgorh/adapt-glm"
 }
