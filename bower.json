@@ -1,23 +1,26 @@
 {
-  "name": "adapt-contrib-vanilla",
-  "version": "2.0.0",
-  "framework": "^2.0.0",
-  "homepage": "https://github.com/darylhedley/adapt-contrib-vanilla",
-  "issues": "https://adaptlearning.atlassian.net/secure/CreateIssueDetails!init.jspa?pid=10100&issuetype=1&priority=6&components=10516",
-  "displayName": "Vanilla",
-  "theme": "vanilla",
-  "description": "A core bundled theme",
-  "main": "js/vanilla.js",
-  "keywords": [
-    "adapt-plugin",
-    "adapt-theme"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "adapt-glm",
+    "repository": "https://github.com/gorhgorh/adapt-glm",
+    "framework": "^2.0.0",
+    "version": "0.1.0",
+    "homepage": "https://github.com/gorhgorh/adapt-glm",
+    "issues": "https://github.com/gorhgorh/adapt-glm",
+    "displayName": "GLM",
+    "theme": "glm",
+    "description": "glm theme for adapt",
+    "main": "js/vanilla.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "_source": "https://github.com/gorhgorh/adapt-glm",
+
 }
